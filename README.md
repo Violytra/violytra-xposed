@@ -22,7 +22,7 @@
     </div>
 </p>
 
-## ❓ About
+## What is Violytra?
 
 Violytra is a client modification for Discord mobile. This repository is a monorepo that builds Violytra.
 
