@@ -26,13 +26,13 @@
 
 Violytra is a client modification for Discord mobile. This repository is a monorepo that builds Violytra.
 
-## ✨ Features
+##  Features
 
-- **🔌 Plugins**: Extend Discord with custom features
-- **🎨 Themes, fonts, icons & emojis**: Customize Discord's appearance to your liking
-- **🧪 Experiments**: Try out Discord's new features before they're rolled out
+- ** Plugins**: Extend Discord with custom features
+- ** Themes, fonts, icons & emojis**: Customize Discord's appearance to your liking
+- ** Experiments**: Try out Discord's new features before they're rolled out
 
-## 👷 Codebase
+##  Codebase
 
 Violytra uses TypeScript and Kotlin Multiplatform to share code between platforms. The codebase is split into four modules:
 
